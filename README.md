@@ -68,7 +68,7 @@
 
 ### Operating Systems:
 
-[<img align="left" alt="RedHat" width="26px" src="https://github.com/kundan9572/icons/blob/master/redhat.png" />][webdevplaylist]
+[<img align="left" alt="RedHat" width="26px" src="https://github.com/MaheshChavan1264/icons/blob/master/redhat.png" />][webdevplaylist]
 [<img align="left" alt="Windows10" width="26px" src="https://github.com/MaheshChavan1264/icons/blob/master/10.png" />][webdevplaylist]
 [<img align="left" alt="Ubuntu" width="26px" src="https://github.com/MaheshChavan1264/icons/blob/master/ubuntu.png" />][webdevplaylist]
 [<img align="left" alt="Kali" width="26px" src="https://github.com/MaheshChavan1264/icons/blob/master/kali.png" />][webdevplaylist]
