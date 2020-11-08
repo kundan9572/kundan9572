@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on a : [Full Stack Development!][faceprep]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learn the new things which are required for the Full Stack Development
-- 🥅 2020 Goals: Try more and more projects in full stack development
+- 👯 I’m looking to learn the new things which are required for the Full Stack Development.
+- 🥅 2020 Goals: Try more and more projects in full stack development.
 - ⚡ Fun fact: I love to ride bike and play cricket, Listening music.
 
 <!--
