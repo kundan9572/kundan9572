@@ -92,13 +92,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kundan9572 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kundan9572&show_icons=true&hide_border=true" />
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kundan9562's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kundan9572&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kundan9572 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kundan9572&show_icons=true&hide_border=true" />
 
 </details>
 
