@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn the new things which are required for the Full Stack Development
 - 🥅 2020 Goals: Try more and more projects in full stack development
-- ⚡ Fun fact: I love to ride bike and playing cricket, Listening music.
+- ⚡ Fun fact: I love to ride bike and play cricket, Listening music.
 
 <!--
 
@@ -93,6 +93,12 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="kundan9572 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kundan9572&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Kundan9562's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kundan9572&show_icons=true&hide_border=true" />
 
 </details>
 
