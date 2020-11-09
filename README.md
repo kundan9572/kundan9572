@@ -6,10 +6,8 @@
 ## I'm a Student, Learner, Developer, Freshers and Coder!
 
 - 🔭 I’m currently working on : [Full Stack Development!][faceprep]!
-<!-- - 🌱 I’m currently learning new technologies like FullStack Development, and Data Analytics. -->
-
-<!-- - 👯 I’m looking to learn the new things which are required for the Full Stack Development. -->
-
+  <!-- - 🌱 I’m currently learning new technologies like FullStack Development, and Data Analytics. -->
+  <!-- - 👯 I’m looking to learn the new things which are required for the Full Stack Development. -->
 - 🥅 2020 Goals: Try more and more projects in Full Stack.
 - ⚡ Fun fact: I love to ride my bike, play cricket, and listen to music.
 
